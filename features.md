@@ -2,5 +2,7 @@
 #### we will collect for now - then end up stack ranking
 
 
-* feature 1
+* start a new project from the command line and have the development environment automatically made
+** hide from me SSH, spinning up the environment
+* connect all my favorite editors to my devbox
 * feature 2
