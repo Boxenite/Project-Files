@@ -1,8 +1,17 @@
 ### add features / experiences that you would want to see on a devbox
 #### we will collect for now - then end up stack ranking
 
+### Devbox
+* launch a new project easily from the command line
+* account creation, email based. 
+* automatically handle ssh key process
+* git ready
+* connect all my favorite editors to my devbox (local pointers to the remote file system?)
+* enable offline (local version) 
 
-* start a new project from the command line and have the development environment automatically made
-* hide from me SSH, spinning up the environment
-* connect all my favorite editors to my devbox
-* feature 2
+* host mobile code (xcode and android) technically possible
+
+### CORPORATE CLIENT FEATURES
+* extremely simple admin tool for account provisioning
+* mass invite people to devbox
+* account and billing
