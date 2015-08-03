@@ -1,5 +1,7 @@
 ## Market Research
 
-Existing Infrastructure as Code solutions:
+Infrastructure as code solutions are recipe based containers that are not made to spin up on VMs, but rather on optimized linux boxes. Existing Infrastructure as Code solutions:
 * [Docker](www.docker.com)
-* [chef](https://www.chef.io/chef/)
+* [Chef](https://www.chef.io/chef/)
+* [CoreOS](https://coreos.com)
+* 
