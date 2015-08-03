@@ -1,6 +1,10 @@
 ## Concept
 Devbox - private, hosted development servers for every engineer. Simple to spin up new environments, whether it is off the shelf containers from google or Docker, to recipes from Chef, to your own favorites, or a CLI creation flow. 
 
+## Feasibility
+
+* [Here is a guy at thoughtbot building his remote dev server](https://robots.thoughtbot.com/remote-development-machine)
+
 ## Market Research
 
 Infrastructure as code solutions are recipe based containers that are not made to spin up on VMs, but rather on optimized linux boxes. Existing Infrastructure as Code solutions:
