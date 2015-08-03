@@ -4,6 +4,11 @@ Devbox - private, hosted development servers for every engineer. Simple to spin 
 ## Feasibility
 
 * [Here is a guy at thoughtbot building his remote dev server](https://robots.thoughtbot.com/remote-development-machine)
+* SSHFS - mounting filesystems from a remote server 
+  *[using fuse - may not work with atom](http://osxfuse.github.io/)
+  *[another solution macfusionapp](http://macfusionapp.org/)
+  *[atom.io discussion](https://discuss.atom.io/t/working-with-ssh/1737/11)
+
 
 ## Market Research
 
