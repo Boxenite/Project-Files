@@ -1,3 +1,6 @@
+## Concept
+Devbox - private, hosted development servers for every engineer. Simple to spin up new environments, whether it is off the shelf containers from google or Docker, to recipes from Chef, to your own favorites, or a CLI creation flow. 
+
 ## Market Research
 
 Infrastructure as code solutions are recipe based containers that are not made to spin up on VMs, but rather on optimized linux boxes. Existing Infrastructure as Code solutions:
@@ -5,3 +8,9 @@ Infrastructure as code solutions are recipe based containers that are not made t
 * [Chef](https://www.chef.io/chef/)
 * [CoreOS](https://coreos.com)
 * [Kubernetes - google container engine](http://kubernetes.io/)
+
+Cloud Hosting for Developers
+* [Digital Ocean - simple cloud hosting for developers](https://www.digitalocean.com)
+* [Heroku - cloud application platform](www.heroku.com)
+* [bitnami - vm app hosting](www.bitnami.com)
+ 
