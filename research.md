@@ -3,6 +3,7 @@ Devbox - private, hosted development servers for every engineer. Simple to spin 
 
 ## Feasibility
 
+* [sshfs digitalocean](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)
 * [Here is a guy at thoughtbot building his remote dev server](https://robots.thoughtbot.com/remote-development-machine)
 * SSHFS - mounting filesystems from a remote server 
   *[using fuse - may not work with atom](http://osxfuse.github.io/)
