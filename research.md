@@ -2,14 +2,13 @@
 Devbox - private, hosted development servers for every engineer. Simple to spin up new environments, whether it is off the shelf containers from google or Docker, to recipes from Chef, to your own favorites, or a CLI creation flow. 
 
 ## Feasibility
-* ways of loading a remote filesystem for local apps (textmate, atom.io) to edit without moving files to local device
-  * [Linux file system (FUSE) to access Dropbox, Sugarsync, Amazon S3, Google Storage, Google Drive](https://github.com/joe42/CloudFusion)
-* [sshfs digitalocean](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)
 * [Here is a guy at thoughtbot building his remote dev server](https://robots.thoughtbot.com/remote-development-machine)
-* SSHFS - mounting filesystems from a remote server 
+* SSHFS - mounting filesystems from a remote server - so you don't have to copy files locally to edit with popular editors
   *[using fuse - may not work with atom](http://osxfuse.github.io/)
   *[another solution macfusionapp](http://macfusionapp.org/)
   *[atom.io discussion](https://discuss.atom.io/t/working-with-ssh/1737/11)
+  * [Linux file system (FUSE) to access Dropbox, Sugarsync, Amazon S3, Google Storage, Google Drive](https://github.com/joe42/CloudFusion)
+  * [sshfs digitalocean](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)
 
 
 ## Market Research
