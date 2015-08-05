@@ -13,6 +13,9 @@ Devbox - private, hosted development servers for every engineer. Simple to spin 
 
 ## Market Research
 
+Workflow products for setting up development environments remotely and connecting to them
+* [Vagrant](https://www.vagrantup.com)
+
 Infrastructure as code solutions are recipe based containers that are not made to spin up on VMs, but rather on optimized linux boxes. Existing Infrastructure as Code solutions:
 * [Docker](www.docker.com)
 * [Chef](https://www.chef.io/chef/)
