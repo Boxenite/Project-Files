@@ -2,7 +2,9 @@
 #### we will collect for now - then end up stack ranking
 
 ### Devbox
-* launch a new project easily from the command line
+* launch a new project easily
+* drag and drop to a folder for adding a project
+* add your github repos (automatically?)
 * account creation, email based. 
 * automatically handle ssh key process
 * git ready
@@ -15,3 +17,10 @@
 * extremely simple admin tool for account provisioning
 * mass invite people to devbox
 * account and billing
+
+### Pricing Model
+* Possible to do public vs. private development server model? 
+
+
+### Misc
+this starts to get more and more competitive
