@@ -1,4 +1,8 @@
-## Possible paths forward on prototyping
+## PoC
+
+* remote environment is accessible to editors locally without the files locally
+  something like http://www.expandrive.com/apps/expandrive/ crossed with dropbox
+* 
 
 ### Prototype feature list
 * adding a project to the folder creates the remote environment
