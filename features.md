@@ -1,8 +1,16 @@
-### add features / experiences that you would want to see on a devbox
-#### we will collect for now - then end up stack ranking
+### Boxenite
+Definition: a single directory that contains all your coding projects
+User Feeling: this folder is goddamn magical - I throw any project in it and it takes care of configuration, building an environment, and creates a super fast experience for me with my tools, the way I want it. 
 
-### Devbox
-* launch a new project easily
+Experiences:
+* every new project or file should be executable, regardless of the local environment (exception of xcode)
+* everything in the folder should execute on a remote server made specifically for the code
+* I can easily share a project to anyone - and it drops into their devbox immediately - and is consistent with my environment. 
+
+### Possible Features
+* create a new project easily
+* add existing projects locally or from repository
+* share a project to someone else's devbox very easily
 * drag and drop to a folder for adding a project
 * add your github repos (automatically?)
 * account creation, email based. 
