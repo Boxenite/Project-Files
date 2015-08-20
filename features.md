@@ -1,9 +1,10 @@
 ### Boxenite
-Definition: a single directory that contains all your coding projects
-User Feeling: this folder is goddamn magical - I throw any project in it and it takes care of configuration, building an environment, and creates a super fast experience for me with my tools, the way I want it. 
+*  Definition: a single directory that contains all your coding projects
+*  User Feeling: Development should "feel" like you are coding locally.
+*  User Feeling: This folder is goddamn magical - I throw any project in it and it takes care of configuration, building an environment, and creates a super fast experience for me with my tools, the way I want it. 
 
 Experiences:
-* every new project or file should be executable, regardless of the local environment (exception of xcode)
+* every new project or file should be executable, regardless of the local environment (exception of xcode and mobile projects)
 * everything in the folder should execute on a remote server made specifically for the code
 * I can easily share a project to anyone - and it drops into their devbox immediately - and is consistent with my environment. 
 
