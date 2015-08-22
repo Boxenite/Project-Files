@@ -1,6 +1,8 @@
 ## Concept
 Devbox - private, hosted development servers for every engineer. Simple to spin up new environments, whether it is off the shelf containers from google or Docker, to recipes from Chef, to your own favorites, or a CLI creation flow. 
 
+The use of Dropbox and Git seems extremely popular. http://stackoverflow.com/questions/1960799/using-git-and-dropbox-together-effectively
+
 ## Feasibility
 * [Here is a guy at thoughtbot building his remote dev server](https://robots.thoughtbot.com/remote-development-machine)
 * SSHFS - mounting filesystems from a remote server - so you don't have to copy files locally to edit with popular editors
