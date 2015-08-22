@@ -1,5 +1,12 @@
 ## PoC
 
+* folder syncs with server
+* can set up folder on many computers
+* can use git / subversion on server
+* run / start commands creates a remote container and runs it
+* any updates to the code locally will reflect in the server and in the live container if possible
+
+
 * remote environment is accessible to editors locally without the files locally
   something like http://www.expandrive.com/apps/expandrive/ crossed with dropbox
 * 
