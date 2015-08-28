@@ -25,18 +25,3 @@ command line tool: $user: box command connects to the service and changes your d
 possible tech solutions: 
 boxenite folder is a parent directory that is a collection on remote environments represented by a folder for each environment
 cd into each folder connects you directly to that project
-box command connects you to sftp service
-we represent your projects as a file directory, navigate to your project
-launch cd into your project actually connects you sftp directly to your dev machine
-
-
-
-can you build a command line tool that reroutes all requests in a given directory to a remote server? 
-
-
-use a dedicated dropbox folder? keep one on the remote server, one on the local computer? 
-
-possible flow for local and remote 
-
-1. user auths into boxenite using dropbox auth
-2. 
