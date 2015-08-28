@@ -1,16 +1,23 @@
-### Boxenite
-*  Definition: a single directory that contains all your coding projects
-*  User Feeling: Development should "feel" like you are coding locally.
-*  User Feeling: This folder is goddamn magical - I throw any project in it and it takes care of configuration, building an environment, and creates a super fast experience for me with my tools, the way I want it. 
+MVP - sync your code between devices. Git consistent. 
+* sync projects between devices
+* account creation - email and password
+* easily add your github repositories
+* maintain git / subversion integrity - git local is on the server. git remote is github
+* simple gui, like menubar app
 
-Experiences:
-* every new project or file should be executable, regardless of the local environment (exception of xcode and mobile projects)
-* everything in the folder should execute on a remote server made specifically for the code
-* I can easily share a project to anyone - and it drops into their devbox immediately - and is consistent with my environment. 
+V1
+* simple share - send access to your 
 
-### Possible Features
-* create a new project easily
-* add existing projects locally or from repository
+V1
+* development server
+  * easily build an run a web server from your server 
+  * 
+
+
+V2 (Enterprise V1)
+* 
+* On-Prem
+
 * share a project to someone else's devbox very easily
 * drag and drop to a folder for adding a project
 * add your github repos (automatically?)
@@ -33,3 +40,9 @@ Experiences:
 
 ### Misc
 this starts to get more and more competitive
+
+
+### Keys to Growth
+* people must be able to use the product without their company needing to have it (unless enterprise size - dropbox)
+* fix the part that keeps people from using it - dropbox fixed the syncing
+* 
