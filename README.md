@@ -28,9 +28,14 @@ Tomorrows Workflow
 * run
 
 
-# Keys to Growth
+## Keys to Growth
 * Free for open source projects
 * can be used immediately inside companies and for individuals
 * A-ha moment - your development server is hooked up to a development database... that already has data in it! cloning also replicates the development db or allows you to connect to one development db shared by all clones
 
-
+## Use Cases
+* saw a cool project on github, want to clone and start messing around with it
+* want to contribute to an open source project
+* want to reduce conflicts due to different environments
+* new engineer on a project and want to dive in immediately
+* I want to develop and test using production data, safely
