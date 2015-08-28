@@ -1,26 +1,35 @@
-MVP - keeping your local synced between computers
-* messaging: dropbox for engineers
-  * anything you add to the folder gets synced
-  * syncing doesn't break git or editors
-  * account creation, easy sharing, easy adding from github repos
+###Boxenite
 
+V1 - keeping your local synced between computers
+* messaging: dropbox for engineers
+* anything you add to the folder gets synced
+* syncing doesn't break git or editors
+* account creation, easy sharing, easy adding from github repos
+unlocks: Use Case 1,2
 ***
 
-* sync projects between devices
-* account creation - email and password
-* easily add your github repositories
-* maintain git / subversion integrity - git local is on the server. git remote is github
-* simple gui, like menubar app
-
-V2 - MVP + remote deploy for development
-* messaging: dropbox + heroku
+V2 - oh snap, you now can deploy development servers with 1 command
+* messaging: dropbox + heroku Platform as a Service
 * command line tool with commands like "boxenite start"
-* detect dependencies, build and run the app on the right container
-* possible syncing service between server and the container for real time changes
- 
+* detect dependencies, build and run the app on the right container for 3-5 languages
+* possible syncing service between computer->server->container for real time changes
+unlocks: Use Case 3,4,5,6
+***
+V3 - enterprise
+
+###Important to the Model
+* forever free for open source
+* private repositories come at a cost
+***
+###Use Cases
+1. I want my code synced across my different computers
+2. I want to share my project with someone else
+3. I want to invite someone else to my project and to my development server environment (database included)
+4. I want to jump into a new project without dealing with dependencies
+5. I want to run anything without having to install dependencies
+6. I want to share my development or production configuration and integration testing to anyone or specific people
 
 V2 (Enterprise V1)
-* 
 * On-Prem
 
 * share a project to someone else's devbox very easily
