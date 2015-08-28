@@ -1,5 +1,12 @@
 ## PoC
 
+* sign up
+* login / logout
+* sync between devices with open source like SyncThing
+
+
+
+
 * folder syncs with server
 * can set up folder on many computers
 * can use git / subversion on server
