@@ -24,8 +24,6 @@ V3 - enterprise
 * forever free for open source
 * private repositories come at a cost
 
-***
-
 ###Use Cases
 1. I want my code synced across my different computers
 2. I want to share my project with someone else
@@ -34,8 +32,6 @@ V3 - enterprise
 5. I want to run anything without having to install dependencies
 6. I want to share my development or production configuration and integration testing to anyone or specific people
 
-V2 (Enterprise V1)
-* On-Prem
 
 * share a project to someone else's devbox very easily
 * drag and drop to a folder for adding a project
