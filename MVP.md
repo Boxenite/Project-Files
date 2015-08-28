@@ -1,18 +1,23 @@
-MVP - sync your code between devices. Git consistent. 
+MVP - keeping your local synced between computers
+* messaging: dropbox for engineers
+  * anything you add to the folder gets synced
+  * syncing doesn't break git or editors
+  * account creation, easy sharing, easy adding from github repos
+
+***
+
 * sync projects between devices
 * account creation - email and password
 * easily add your github repositories
 * maintain git / subversion integrity - git local is on the server. git remote is github
 * simple gui, like menubar app
 
-V1
-* simple share - send access to your 
-
-V1
-* development server
-  * easily build an run a web server from your server 
-  * 
-
+V2 - MVP + remote deploy for development
+* messaging: dropbox + heroku
+* command line tool with commands like "boxenite start"
+* detect dependencies, build and run the app on the right container
+* possible syncing service between server and the container for real time changes
+ 
 
 V2 (Enterprise V1)
 * 
