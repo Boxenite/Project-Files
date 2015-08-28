@@ -1,6 +1,13 @@
 # Boxenite
 ###development servers that don't suck
 * code syncing between multiple devices
+* store code locally
+* deploy local
+hr
+* store code locally
+* deploy remote
+* 
+
 * store code locally or on your development server (hello enterprise - give me your money)
 * Easily share your development
 * Add-on Services
