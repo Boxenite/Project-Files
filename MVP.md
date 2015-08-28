@@ -5,7 +5,7 @@ V1 - keeping your local synced between computers
 * anything you add to the folder gets synced
 * syncing doesn't break git or editors
 * account creation, easy sharing, easy adding from github repos
-**unlocks:** Use Case 1,2
+* **unlocks:** Use Case 1,2
 
 ***
 
@@ -14,7 +14,7 @@ V2 - oh snap, you now can deploy development servers with 1 command
 * command line tool with commands like "boxenite start"
 * detect dependencies, build and run the app on the right container for 3-5 languages
 * possible syncing service between computer->server->container for real time changes
-**unlocks:** Use Case 3,4,5,6
+* **unlocks:** Use Case 3,4,5,6
 
 ***
 
