@@ -1,13 +1,30 @@
 # Boxenite
-### Building tools developers must have
+* development servers that don't suck
+* code syncing between multiple devices
+* store code locally or on your development server (hello enterprise - give me your money)
+* Easily share your development
 
-First Product: 
-* A simple interface to create and use remote development environments
-  * to begin coding on a new or existing project should be effortless
-  * you should practice how you play - development should be as close to production environment as possible
 
-Second Product:
-* Production Database Proxy service for development access
-  * Development needs access to production data
-  * Development isn't always safe and needs protection
-  * Sensitive data needs protection as well
+Why can't I pull any repo and start working on it immediately without having to configure my machine? 
+I could use things like vagrant, but why isn't this shit just happening automagically? 
+The sharing mechanism needs to already do the dirty work and live natively inside my workflow
+
+
+today's workflow for a project
+* clone repo to local
+* install dependencies (WOOF can be a big step)
+* install server
+* create DB, migrate DB
+* run
+
+
+Tomorrows Workflow
+* clone development server
+* run
+
+
+# Keys to Growth
+* Free for open source projects
+* 
+
+
