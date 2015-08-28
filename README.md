@@ -1,5 +1,5 @@
 # Boxenite
-* development servers that don't suck
+###development servers that don't suck
 * code syncing between multiple devices
 * store code locally or on your development server (hello enterprise - give me your money)
 * Easily share your development
@@ -11,6 +11,7 @@
 Problem: Configuration work is a hassle and small differences create large problems. Sharing configuration takes work that should be already built into your minimal workflow. 
 Why can't I pull any repo and start working on it immediately without having to configure my machine? 
 I could use things like vagrant, but why isn't this shit just happening automagically? 
+but then my database doesn't have any data in it. 
 The sharing mechanism needs to already do the dirty work and live natively inside my workflow
 
 
@@ -30,5 +31,6 @@ Tomorrows Workflow
 # Keys to Growth
 * Free for open source projects
 * can be used immediately inside companies and for individuals
+* A-ha moment - your development server is hooked up to a development database... that already has data in it! cloning also replicates the development db or allows you to connect to one development db shared by all clones
 
 
