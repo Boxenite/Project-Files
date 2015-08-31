@@ -10,11 +10,9 @@
 * code syncing between multiple devices - access local wherever you are
 
 #### After V1
-* 
+* code is stored remotely but clever syncing enables you to continue to use the editors you love
 
-
-* store code locally or on your development server (hello enterprise - give me your money)
-* Easily share your development
+## Also more to build
 * Add-on Services
   * DB Proxy - easily control what databases and queries are allowed by your development servers
   * CI for all development servers
