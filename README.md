@@ -1,7 +1,7 @@
 # Boxenite - development servers that work
 
 ####MVP
-* CLI that creates a remote server for any directory in the boxenite folder
+* CLI that creates a remote server (that can compile build and run) for any directory in the boxenite folder
 * server code that can understand dependencies, create and launch the correct container on cloud hosting platform
 * account creation, login, deletion
 
