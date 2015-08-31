@@ -1,11 +1,19 @@
-## PoC
+##Building the MVP
 
-* sign up
-* login / logout
-* sync between devices with open source like SyncThing
+####MVP
+* CLI that creates a remote server (that can compile build and run) for any directory in the boxenite folder
+* server code that can understand dependencies, create and launch the correct container on cloud hosting platform
+* account creation, login, deletion
+* easy share to an email
+
+###Components
+* Digital Ocean is the hosting platform
+* ruby api for creating their containers (droplets)
+* server - for managing the server provisioning, accounts
+* command line tool / syncing service for live updates to running server
 
 
-
+### These are just notes
 
 * folder syncs with server
 * can set up folder on many computers
