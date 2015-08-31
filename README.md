@@ -1,12 +1,17 @@
-# Boxenite
-###development servers that don't suck
-* code syncing between multiple devices
-* store code locally
-* deploy local
-hr
-* store code locally
-* deploy remote
+# Boxenite - development servers that work
+
+####MVP
+* CLI that creates a remote server for any directory in the boxenite folder
+* server code that can understand dependencies, create and launch the correct container on cloud hosting platform
+* account creation, login, deletion
+
+#### V1 
+
+* code syncing between multiple devices - access local wherever you are
+
+#### After V1
 * 
+
 
 * store code locally or on your development server (hello enterprise - give me your money)
 * Easily share your development
