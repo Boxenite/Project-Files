@@ -14,7 +14,6 @@ Vagrant, Docker, etc. - they all are fantastic tools but lack a simple experienc
 
 **Things we abstract away**
 * installing dependencies locally for every new project 
-* 
 * setting up account and server on digitalocean, heroku etc. 
 * writing configuration files
 
