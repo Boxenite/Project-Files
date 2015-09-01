@@ -9,7 +9,8 @@ Vagrant, Docker, etc. - they all are fantastic tools but lack a simple experienc
 * to the user, EVERYTHING must feel like they are running it on their own machine. Absolutely no learning curve. 
 * cloning repository to your boxenite folder is the only action you have to take to get up and running
 * support 1-2 most popular project types
-* * Free to use for development (we will eat the cost on MVP)
+* Free to use for development (we will eat the cost on MVP)
+* easy to share your exact environment - we guarantee consistency in environments when you share your projects
 * **unlocks:** Use Case 1,2,3,4
 
 **Things we abstract away**
@@ -19,6 +20,7 @@ Vagrant, Docker, etc. - they all are fantastic tools but lack a simple experienc
 
 ###V1
 * code syncing between multiple devices
+* database cloning - fire up an existing project with a populated db, if the project owner has one
 
 ###V2
 * code is remote
