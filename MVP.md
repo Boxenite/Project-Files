@@ -26,7 +26,8 @@ V1 - keeping your local synced between computers
 
 ***
 
-V3 - enterprise
+V2 - enterprise
+* files are never on your local device - syncing product enables all your editors to work as is. 
 
 ###Important to the Model
 * forever free for open source
