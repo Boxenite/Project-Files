@@ -1,6 +1,7 @@
 ###Boxenite
 
 **Configuration - only if you want to.**
+
 Vagrant, Docker, etc. - they all are fantastic tools but lack a simple experience that impacts enterprise users and individual engineers. We are going to backdoor this product into every enterprise because it will be THE way engineers start, collaborate and work on their projects.
 
 **MVP - Development Servers that Just Work**
