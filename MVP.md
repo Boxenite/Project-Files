@@ -1,20 +1,28 @@
 ###Boxenite
 
-V1 - keeping your local synced between computers
-* messaging: dropbox for engineers
-* anything you add to the folder gets synced
-* syncing doesn't break git or editors
-* account creation, easy sharing, easy adding from github repos
-* **unlocks:** Use Case 1,2
+Vagrant, Docker, etc. - they all are fantastic tools but lack a simple experience that impacts enterprise users and individual engineers. We are going to backdoor this product into every enterprise because it will be THE way engineers start, collaborate and work on their projects.
+
+MVP - Development Servers that Just Work
+* Adding a project or file to your Boxenite Folder creates a remote development server, immediately. 
+* Free to use for development (we will eat the cost on MVP)
+* syncing between your machine and the development server (real time)
+* to the user, EVERYTHING must feel like they are running it on their own machine. Absolutely no learning curve. 
+* cloning repository to your boxenite folder is the only action you have to take to get up and running
+* support 3-5 most popular project types
+* **unlocks:** Use Case 1,2,3,4
 
 ***
 
-V2 - oh snap, you now can deploy development servers with 1 command
-* messaging: dropbox + heroku Platform as a Service
-* command line tool with commands like "boxenite start"
-* detect dependencies, build and run the app on the right container for 3-5 languages
-* possible syncing service between computer->server->container for real time changes
-* **unlocks:** Use Case 3,4,5,6
+
+V1 - keeping your local synced between computers
+* anything you add to the folder gets synced across your devices
+* syncing doesn't break git or editors
+* account creation, easy sharing, easy adding from github repos
+* **unlocks:** Use Case 5
+
+
+
+
 
 ***
 
@@ -25,12 +33,11 @@ V3 - enterprise
 * private repositories come at a cost
 
 ###Use Cases
-1. I want my code synced across my different computers
-2. I want to share my project with someone else
-3. I want to invite someone else to my project and to my development server environment (database included)
-4. I want to jump into a new project without dealing with dependencies
-5. I want to run anything without having to install dependencies
-6. I want to share my development or production configuration and integration testing to anyone or specific people
+1. I want to share my project with someone else
+2. I want to invite someone else to my project and to my development server environment (database included)
+3. I want to jump into a new project without dealing with dependencies
+4. I want to share my development or production configuration and integration testing to anyone or specific people
+5. I want my code synced across my different computers
 
 
 * share a project to someone else's devbox very easily
