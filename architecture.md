@@ -5,7 +5,7 @@ Minimum viable proof of concept, essentially [BuildingMVP](BuildingMVP.md).
 ## Theory of Operations (bit of CONOPS for flavouring).
 
 This section assumes a fully onboarded and commited user. Funneling, conversion
-and such are out of scope, even tho they will drive design decisions; however
+and such are out of scope, even though they will drive design decisions; however
 in the absence of data, it would be premature to assume all use cases.
 
 The product (hereinafter, boxenite) is the confluence of 7 major components,
@@ -20,7 +20,7 @@ Component details at eleven.
 Assumptions:
 - only self contained trivial projects, i.e. well known stack
   - edit / test cycle, no compile.
-  - Basic side kicks tho, e.g. postgres, redis
+  - Basic side kicks though, e.g. postgres, redis
 - Existing project in VCS, i.e. git
 - commited user, i.e. fully configured client, functioning backend.
   - service directory
