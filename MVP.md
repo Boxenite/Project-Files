@@ -2,13 +2,10 @@
 
 **Configuration - only if you want to.**
 
-Vagrant, Docker, etc. - they all are fantastic tools but lack a simple experience that impacts enterprise users and individual engineers. We are going to backdoor this product into every enterprise because it will be THE way engineers start, collaborate and work on their projects.
-
 **MVP - Development Servers that Just Work**
-* Adding a project or file to your Boxenite Folder creates a remote development server. 
+* Adding a project or file to your Boxenite Folder creates a fully operational development server.  
 * remote development server stays in sync with your local folder. it effectively becomes your local.
 * to the user, EVERYTHING must feel like they are running it on their own machine. Absolutely no learning curve. 
-* cloning repository to your boxenite folder is the only action you have to take to get up and running
 * support 1-2 most popular project types
 * Free to use for development (we will eat the cost on MVP)
 * easy to share your exact environment - we guarantee consistency in environments when you share your projects
@@ -61,5 +58,9 @@ The sharing mechanism needs to already do the dirty work and live natively insid
 * is valuable enough to individual developers to adopt it into their workflow
 * A-ha moment - your development server is hooked up to a development database... that already has data in it! cloning also replicates the development db or allows you to connect to one development db shared by all clones
 
+
+## Old Copy
+
+Vagrant, Docker, etc. - they all are fantastic tools but lack a simple experience that impacts enterprise users and individual engineers. We are going to backdoor this product into every enterprise because it will be THE way engineers start, collaborate and work on their projects.
 
 
