@@ -1,7 +1,9 @@
 ## How we build it
 
 ### Components
-* Command Line Tool - $ bxe 'rails new'
+* Command Line Tool
+  * $bxe 'rails new'
+  * $bxe 'rake task'
 * menubar-app:
   * sign up, login, auth
   * file system watching
